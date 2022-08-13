@@ -1,3 +1,3 @@
 # For-Choco
 Tasks for Interview
-https://miro.com/app/board/uXjVPfOSSyQ=/
+Mind Map for Payment Receive https://miro.com/app/board/uXjVPfOSSyQ=/
