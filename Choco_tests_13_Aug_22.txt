@@ -1,0 +1,20 @@
+
+Mind map
+
+https://miro.com/app/board/uXjVPfOSSyQ=/
+
+
+Test Design
+
+https://docs.google.com/document/d/1xa6OOo18wKflOKz_ihHCZh0l85OoTALFI_MOhsm4hYU/edit?usp=sharing
+
+
+
+Тест кейсы и чек листы 
+
+https://docs.google.com/spreadsheets/d/1MogLzIooncMu5RyCHUWAUCkHrVqXQL2NsEmd6TuzMf4/edit?usp=sharing
+
+
+Баг репорты
+
+https://docs.google.com/spreadsheets/d/1GJbJQeJKblfj241DFmrV_wLfqRSBSGsegu4tU_ViBoM/edit?usp=sharing
